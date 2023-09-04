@@ -35,6 +35,7 @@ const matLine = new LineMaterial({
 
   //resolution:  // to be set by renderer, eventually
   alphaToCoverage: true,
+  // alphaToCoverage: false,
 });
 
 const matThresholdLine = new LineMaterial({
